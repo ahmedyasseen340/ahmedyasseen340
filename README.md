@@ -14,10 +14,9 @@ I am a passionate Full-Stack Developer and Team Leader at the Digital Egypt Pion
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedyasseen340&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyasseen340&layout=compact&theme=radial)
+![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedyasseen340&theme=react-dark)
 
 ---
 
