@@ -25,4 +25,4 @@ I am a passionate Full-Stack Developer and Team Leader at the Digital Egypt Pion
 
 - **LinkedIn:** [Ahmed Yasseen](https://www.linkedin.com/)
 - **Email:** ahmed.fullstack.dev@gmail.com
-- **Portfolio:** [Live Portfolio](https://ahmedyasseen340.github.io/portfolioo/project_cursor/index.html)
+- **Portfolio:** [Live Portfolio](https://ahmedyasseen340.github.io/portfolioo/)
