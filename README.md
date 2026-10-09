@@ -13,10 +13,12 @@ I am a passionate Full-Stack Developer and Team Leader at the Digital Egypt Pion
 - **Tools & Version Control:** Git | GitHub | Visual Studio | Cursor / VS Code
 
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats & Activity
-
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedyasseen340&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyasseen340&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyasseen340&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
